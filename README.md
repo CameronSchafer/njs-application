@@ -15,4 +15,4 @@ Before starting, make sure to create a clean branch and work off that.
     * Move the original app into its new folder and do the same for the second app and it's folder
     * Keep in mind both apps cannot be using the same port number
 5. Implement communication between the 2 apps based on certain user inputs
-6. Implement flat file logging of all actions performed by both Node Servers
+6. Implement logging of all actions performed by both Node Servers
